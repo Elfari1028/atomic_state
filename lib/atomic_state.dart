@@ -1,4 +1,4 @@
-library atom_state;
+library atomic_state;
 
 export 'src/atomic_state_manager.dart';
 export 'src/atomic_state.dart';

@@ -1,4 +1,4 @@
-import 'package:atom_state/atomic_state.dart';
+import 'package:atomic_state/atomic_state.dart';
 import 'package:flutter/material.dart';
 
 void main() {

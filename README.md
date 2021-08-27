@@ -1,4 +1,4 @@
-# atom_state
+# atomic_state
 
 A helper package for 
 - global & modular state management.

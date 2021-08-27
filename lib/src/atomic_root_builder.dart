@@ -1,4 +1,4 @@
-import 'package:atom_state/src/atomic_state.dart';
+import 'atomic_state.dart';
 import 'package:flutter/material.dart';
 
 /// @param `members` with tag that's not in `tags` will be ignored

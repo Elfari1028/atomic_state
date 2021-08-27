@@ -8,7 +8,7 @@ packages:
       url: "https://mirrors.tuna.tsinghua.edu.cn/dart-pub"
     source: hosted
     version: "2.6.1"
-  atom_state:
+  atomic_state:
     dependency: "direct main"
     description:
       path: ".."
